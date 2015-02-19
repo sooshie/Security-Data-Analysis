@@ -9,7 +9,8 @@ The goal over all five labs will be to get comfortable doing data analysis as we
 Good luck and enjoy!
 
 ## Labs
-* Lab 1 - Introduction to IPython and pandas
+* Lab 1 - Introduction to IPython and Pandas
+* Lab 2 - Introduction to time series analysis
 
 ## License
 All of these labs are released under the [Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
