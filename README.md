@@ -11,6 +11,7 @@ Good luck and enjoy!
 ## Labs
 * Lab 1 - Introduction to IPython and Pandas
 * Lab 2 - Introduction to time series analysis
+* Lab 3 - Introduction to basic statistics in Python
 
 ## License
 All of these labs are released under the [Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
