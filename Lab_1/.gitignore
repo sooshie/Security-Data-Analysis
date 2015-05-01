@@ -1,0 +1,4 @@
+conn.log*
+conn_sample*
+.ipynb_checkpoints/*
+*.swp
